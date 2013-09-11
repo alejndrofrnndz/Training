@@ -1,3 +1,5 @@
 this is a new file
 HELLO
 Working on my special file!
+
+this file isn't so special after all
